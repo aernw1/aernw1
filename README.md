@@ -70,6 +70,31 @@
 
 ---
 
+## 🏢 Organization Contributions
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aernw&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats with Organizations" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aernw&theme=tokyonight&hide_border=true&custom_title=GitHub%20Contribution%20Graph" alt="Activity Graph" />
+</div>
+
+---
+
+## 🌟 Organization Showcase
+
+<div align="center">
+  <h3>Contributions to Organizations</h3>
+</div>
+
+<div align="center">
+  <img src="https://github.com/EpitechPromo2028/B-YEP-400-PAR-4-1-zappy-alexandre.sok" alt="Zappy project" />
+  <img src="https://github.com/EpitechPromo2028/B-MUL-200-PAR-2-1-myrpg-erwan.seytor" alt="My RPG project" />
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
