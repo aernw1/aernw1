@@ -97,6 +97,12 @@
   </a>
 </div>
 
+<div align="center">
+  <h4>Alternative Display (if stats cards don't load)</h4>
+  <a href="https://github.com/EpitechPromo2028/B-YEP-400-PAR-4-1-zappy-alexandre.sok">🎮 Zappy Project</a> | 
+  <a href="https://github.com/EpitechPromo2028/B-MUL-200-PAR-2-1-myrpg-erwan.seytor">⚔️ My RPG Project</a>
+</div>
+
 ---
 
 ## 🏆 GitHub Trophies
