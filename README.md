@@ -1,23 +1,27 @@
 <div align="center">
-  <!-- Animated Typing Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B,+I'm+Erwan;Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+erwan;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/aernw1/aernw1/blob/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
 </div>
 
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently working on various projects  
-- 🌱 Always learning new technologies  
-- 👯 Open to collaborating on exciting projects  
-- 💬 Feel free to reach out for any questions  
-- ⚡ Passionate about technology & problem-solving  
+
+- 🔭 I'm currently working on various projects
+- 🌱 I'm always learning new technologies
+- 👯 I'm open to collaborating on interesting projects
+- 💬 Feel free to reach out for any questions
+- ⚡ Passionate about technology and problem-solving
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&animation=spin)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
@@ -32,6 +36,7 @@
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -49,44 +54,44 @@
 
 ---
 
-## 🌟 GitHub Stats
+## 🌟 Organization Showcase
+
 <div align="center">
-  <!-- Dynamic GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=aernw&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aernw&layout=compact&theme=tokyonight" />
+  <h3>Contributions to Organizations</h3>
+</div>
+
+<div align="center">
+  <h4>Epitech Projects</h4>
+  <a href="https://github.com/EpitechPromo2028/B-YEP-400-PAR-4-1-zappy-alexandre.sok">🎮 Zappy Project</a> | 
+  <a href="https://github.com/EpitechPromo2028/B-MUL-200-PAR-2-1-myrpg-erwan.seytor">⚔️ My RPG Project</a>
 </div>
 
 ---
 
-## 🎮 Projects with Animated Preview
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="https://github.com/EpitechPromo2028/B-YEP-400-PAR-4-1-zappy-alexandre.sok">
-    <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250" alt="Zappy Project Demo" />
-    <br>🎮 Zappy Project
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/EpitechPromo2028/B-MUL-200-PAR-2-1-myrpg-erwan.seytor">
-    <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="250" alt="My RPG Project Demo" />
-    <br>⚔️ My RPG Project
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=aernw&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
+
+
 
 ## 🤝 Connect with Me
+
 <div align="center">
-  <a href="https://github.com/aernw">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/aernw" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <!-- Animated Typing Footer -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%98%8A;Feel+free+to+reach+out!" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=aernw&style=for-the-badge&color=blue" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%98%8A;Feel+free+to+reach+out!" alt="Typing SVG" />
 </div>
