@@ -1,0 +1,47 @@
+name: Generate Snake
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every day
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - uses: Platane/snk@v2
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          gif_out_path: ./snake.gif
+          svg_out_path: ./snake.svg
+
+      - uses: Platane/snk@v2
+        id: snake-gif-dark
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          gif_out_path: ./snake-dark.gif
+          svg_out_path: ./snake-dark.svg
+          # this is a dark green snake
+          color_snake: '#36914d'
+          color_dots: '#8ec07c'
+          color_dots_sequence: '#458588'
+          color_line: '#293846'
+
+      - name: push to github
+        run: |
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add -A
+          git diff --staged --quiet || git commit -m 'Generate Snake'
+          git push
