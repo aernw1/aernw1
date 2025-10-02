@@ -89,16 +89,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/EpitechPromo2028/B-YEP-400-PAR-4-1-zappy-alexandre.sok">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EpitechPromo2028&repo=B-YEP-400-PAR-4-1-zappy-alexandre.sok&theme=tokyonight&hide_border=true&show_owner=false" alt="Zappy Project" />
-  </a>
-  <a href="https://github.com/EpitechPromo2028/B-MUL-200-PAR-2-1-myrpg-erwan.seytor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EpitechPromo2028&repo=B-MUL-200-PAR-2-1-myrpg-erwan.seytor&theme=tokyonight&hide_border=true&show_owner=false" alt="My RPG Project" />
-  </a>
-</div>
-
-<div align="center">
-  <h4>Alternative Display (if stats cards don't load)</h4>
+  <h4>Epitech Projects</h4>
   <a href="https://github.com/EpitechPromo2028/B-YEP-400-PAR-4-1-zappy-alexandre.sok">🎮 Zappy Project</a> | 
   <a href="https://github.com/EpitechPromo2028/B-MUL-200-PAR-2-1-myrpg-erwan.seytor">⚔️ My RPG Project</a>
 </div>
