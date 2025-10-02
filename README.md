@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/aernw/aernw/blob/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
+  <img src="https://github.com/aernw1/aernw1/blob/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
 </div>
 
 ---
