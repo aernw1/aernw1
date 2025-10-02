@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/aernw/aernw/blob/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/aernw/aernw/blob/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
 </div>
 
 ---
