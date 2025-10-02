@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/aernw/aernw/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/aernw/aernw/blob/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -79,7 +79,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github.com/aernw/aernw/blob/output/snake.svg" alt="Contribution Graph" />
+  <img src="https://github.com/aernw/aernw/blob/snake.svg" alt="Contribution Graph" />
 </div>
 
 ---
