@@ -77,13 +77,6 @@
 ---
 
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github.com/aernw/aernw/blob/main/snake.svg" alt="Contribution Graph" />
-</div>
-
----
 
 ## 🤝 Connect with Me
 
