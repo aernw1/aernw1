@@ -5,13 +5,12 @@
 <div align="center">
   <img src="https://github.com/aernw1/aernw1/blob/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
 </div>
-## Statistics
 
- <div>
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=aernw1&show_icons=true&theme=synthwave" width=46% />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=aernw1&theme=synthwave" width=49% />
    
- </div>
+</div>
  
 ## 🤝 Connect with Me
 
