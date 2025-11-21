@@ -8,6 +8,55 @@
 
 ---
 
+## 📊 GitHub Statistics
+
+<div align="center">
+
+### 📈 GitHub Stats & Streak
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aernw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aernw&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### 💻 Most Used Languages
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aernw&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+### 📊 Profile Summary Cards
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aernw&theme=tokyonight" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aernw&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aernw&theme=tokyonight" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aernw&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aernw&theme=tokyonight&utcOffset=1" alt="Productive Time" />
+</p>
+
+### 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aernw&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+### 📉 Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/00D9FF/aernw" alt="Contribution Calendar" />
+</p>
+
+</div>
+
+---
+
 
 ## 👨‍💻 About Me
 
