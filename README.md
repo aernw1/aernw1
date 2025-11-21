@@ -15,42 +15,42 @@
 ### 📈 GitHub Stats & Streak
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aernw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aernw&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aernw1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aernw1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### 💻 Most Used Languages
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aernw&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aernw1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ### 📊 Profile Summary Cards
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aernw&theme=tokyonight" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aernw1&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aernw&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aernw&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aernw1&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aernw1&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aernw&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aernw&theme=tokyonight&utcOffset=1" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aernw1&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aernw1&theme=tokyonight&utcOffset=1" alt="Productive Time" />
 </p>
 
 ### 📈 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aernw&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aernw1&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ### 📉 Contribution Calendar
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00D9FF/aernw" alt="Contribution Calendar" />
+  <img src="https://ghchart.rshah.org/00D9FF/aernw1" alt="Contribution Calendar" />
 </p>
 
 </div>
@@ -110,28 +110,10 @@
   <h3>Contributions to Organizations</h3>
 </div>
 
-<div align="center">
-  <h4>Epitech Projects</h4>
-  <a href="https://github.com/EpitechPromo2028/B-YEP-400-PAR-4-1-zappy-alexandre.sok">🎮 Zappy Project</a> | 
-  <a href="https://github.com/EpitechPromo2028/B-MUL-200-PAR-2-1-myrpg-erwan.seytor">⚔️ My RPG Project</a>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aernw&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-
-
 ## 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://github.com/aernw" target="_blank">
+  <a href="https://github.com/aernw1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
@@ -139,7 +121,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aernw&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=aernw1&style=for-the-badge&color=blue" alt="Profile Views" />
 </div>
 
 <div align="center">
