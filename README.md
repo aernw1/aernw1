@@ -26,6 +26,13 @@
 <img src="https://skillicons.dev/icons?i=python,c,cpp,go,js,ts,react,docker,aws,postgres,git,linux,mac&perline=8" alt="Tech Stack Icons" />
 </div>
 
+## 📝 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## 🤝 Connect with Me
 
 <div align="center">
