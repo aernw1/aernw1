@@ -14,11 +14,11 @@
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,go,js,ts,react&perline=6" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=bash,c,cpp,go,js,ts,react&perline=8" alt="Tech Stack Icons" />
 </div>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=docker,aws,postgres,git,linux,apple&perline=15" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=cmake,docker,aws,postgres,git,github,linux,apple&perline=8" alt="Tech Stack Icons" />
 </div>
 
 
