@@ -14,7 +14,7 @@
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,go,js,ts,react,docker,aws,postgres,git,linux&perline=8" alt="Tech Stack Icons" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,go,js,ts,react,docker,aws,postgres,git,linux,apple&perline=15" alt="Tech Stack Icons" />
 </div>
 
 
