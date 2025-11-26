@@ -34,10 +34,3 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%98%8A;Feel+free+to+reach+out!;Happy+Coding!+%F0%9F%9A%80;Let's+build+something+amazing!" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=90" alt="Footer Wave" />
-</div>
