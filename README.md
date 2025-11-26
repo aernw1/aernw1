@@ -10,20 +10,11 @@
   <img src="https://raw.githubusercontent.com/aernw1/aernw1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-## 👨‍💻 About Me
-
-- 🔭 I'm currently working on various projects
-- 🌱 I'm always learning new technologies
-- 👯 I'm open to collaborating on interesting projects
-- 💬 Feel free to reach out for any questions
-- ⚡ Passionate about technology and problem-solving
-
----
 
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,go,js,ts,react,docker,aws,postgres,git,linux,mac&perline=8" alt="Tech Stack Icons" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,go,js,ts,react,docker,aws,postgres,git,linux&perline=8" alt="Tech Stack Icons" />
 </div>
 
 
