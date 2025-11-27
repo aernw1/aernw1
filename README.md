@@ -2,6 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+erwan;Full+Stack+Developer;Always+learning+new+things;Open+to+collaboration;Building+cool+stuff+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
+<!--START_SECTION:random_gif-->
+<div align="center">
+  <img src="./assets/asuka.gif" alt="Random GIF" width="600"/>
+</div>
+<!--END_SECTION:random_gif-->
+
 <div align="center">
   <img src="https://github.com/aernw1/aernw1/blob/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
 </div>

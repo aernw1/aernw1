@@ -1,0 +1,56 @@
+name: update-gif
+
+on:
+  schedule:
+    # Runs every day at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-gif:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update random GIF
+        run: |
+          # Get all GIF files from assets folder (excluding .DS_Store)
+          GIFS=($(ls assets/*.gif 2>/dev/null || echo ""))
+
+          if [ ${#GIFS[@]} -eq 0 ]; then
+            echo "No GIF files found in assets folder"
+            exit 1
+          fi
+
+          # Select a random GIF
+          RANDOM_INDEX=$((RANDOM % ${#GIFS[@]}))
+          SELECTED_GIF="${GIFS[$RANDOM_INDEX]}"
+
+          echo "Selected GIF: $SELECTED_GIF"
+
+          # Update README.md between the markers
+          sed -i.bak '/<!--START_SECTION:random_gif-->/,/<!--END_SECTION:random_gif-->/ {
+            /<!--START_SECTION:random_gif-->/!{
+              /<!--END_SECTION:random_gif-->/!d
+            }
+          }' README.md
+
+          # Insert the new GIF
+          sed -i.bak '/<!--START_SECTION:random_gif-->/a\
+<div align="center">\
+  <img src="./'$SELECTED_GIF'" alt="Random GIF" width="600"/>\
+</div>' README.md
+
+          # Clean up backup file
+          rm README.md.bak
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update random GIF" && git push)
