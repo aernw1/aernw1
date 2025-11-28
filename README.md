@@ -14,7 +14,7 @@
       Visitors ✦
     </span>
     <a href="https://count.getloli.com/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
-      <img src="https://count.getloli.com/get/@aernw1?theme=gelbooru-h" alt="Visitors counter" />
+      <img src="https://count.getloli.com/get/@aernw1?theme=booru-vp" alt="Visitors counter" />
     </a>
   </div>
 </div>
