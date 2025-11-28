@@ -10,9 +10,6 @@
     background: radial-gradient(circle at top, #202a44, #0c111d);
     box-shadow: 0 20px 35px rgba(0,0,0,0.35);
   ">
-    <span style="font-size: 0.8rem; letter-spacing: 0.3em; text-transform: uppercase; color: #a6b7ff;">
-      Visitors ✦
-    </span>
     <a href="https://count.getloli.com/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
       <img src="https://count.getloli.com/get/@aernw1?theme=booru-vp" alt="Visitors counter" />
     </a>
