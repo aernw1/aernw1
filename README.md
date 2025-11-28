@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=aernw1&label=Profile%20Views&color=3&icon=5&pretty=true" alt="Profile Views Counter" />
+</p>
+
 <!--START_SECTION:random_gif-->
 <div align="center" style="position: relative;">
   <img src="./assets/asuka.gif" alt="Random GIF" width="800"/>
