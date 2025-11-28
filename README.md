@@ -1,6 +1,23 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aernw1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views Counter" />
-</p>
+<div align="center" style="margin-bottom: 1.5rem;">
+  <div style="
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 1.15rem 1.75rem;
+    border-radius: 18px;
+    border: 1px solid rgba(255,255,255,0.2);
+    background: radial-gradient(circle at top, #202a44, #0c111d);
+    box-shadow: 0 20px 35px rgba(0,0,0,0.35);
+  ">
+    <span style="font-size: 0.8rem; letter-spacing: 0.3em; text-transform: uppercase; color: #a6b7ff;">
+      Visitors ✦
+    </span>
+    <a href="https://count.getloli.com/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
+      <img src="https://count.getloli.com/get/@aernw1?theme=gelbooru-h" alt="Visitors counter" />
+    </a>
+  </div>
+</div>
 
 <!--START_SECTION:random_gif-->
 <div align="center" style="position: relative;">
