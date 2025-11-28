@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=aernw1&label=Profile%20Views&color=3&icon=5&pretty=true" alt="Profile Views Counter" />
+  <img src="https://komarev.com/ghpvc/?username=aernw1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views Counter" />
 </p>
 
 <!--START_SECTION:random_gif-->
