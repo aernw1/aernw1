@@ -13,7 +13,7 @@
 
 ## Contributions 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aernw/aernw/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/aernw/aernw/main/profile-3d-contrib/profile-night-view.svg?v=20260219183821" alt="3D Contribution Graph" />
 </div>
 
 <p align="center">
