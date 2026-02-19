@@ -13,7 +13,7 @@
 
 ## Contributions 
 <div align="center">
-  <img src="https://github.com/aernw/aernw/blob/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/aernw/aernw/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
 </div>
 
 <p align="center">
@@ -52,4 +52,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
