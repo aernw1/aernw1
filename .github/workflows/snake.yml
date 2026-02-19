@@ -8,6 +8,10 @@ on:
     branches:
       - main
 
+concurrency:
+  group: snake-output-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   generate:
     permissions:
@@ -29,5 +33,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
