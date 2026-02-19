@@ -4,7 +4,7 @@
 
 <!--START_SECTION:random_gif-->
 <div align="center" style="position: relative;">
-  <img src="./assets/cloud.gif" alt="Random GIF" width="900"/>
+  <img src="./assets/kh.gif" alt="Random GIF" width="900"/>
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffffff&center=true&vCenter=true&width=1000&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Erwan;Full+Stack+Developer;Always+learning+new+things;Open+to+collaboration;Building+cool+stuff+%F0%9F%9A%80" alt="Typing SVG" />
   </div>
