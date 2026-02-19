@@ -13,11 +13,11 @@
 
 ## Contributions 
 <div align="center">
-  <img src="https://github.com/aernw1/aernw1/blob/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
+  <img src="https://github.com/aernw/aernw/blob/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aernw1/aernw1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/aernw/aernw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 
