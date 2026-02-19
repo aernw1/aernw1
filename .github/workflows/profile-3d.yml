@@ -21,6 +21,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Bust README cache for 3D graph
+        run: |
+          CACHE_BUSTER=$(date -u +%Y%m%d%H%M%S)
+          sed -E -i "s#https://raw\\.githubusercontent\\.com/[^/]+/[^/]+/main/profile-3d-contrib/profile-night-view\\.svg(\\?v=[0-9]+)?#https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/main/profile-3d-contrib/profile-night-view.svg?v=${CACHE_BUSTER}#g" README.md
+          sed -E -i "s#https://github\\.com/[^/]+/[^/]+/blob/main/profile-3d-contrib/profile-night-view\\.svg(\\?v=[0-9]+)?#https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/main/profile-3d-contrib/profile-night-view.svg?v=${CACHE_BUSTER}#g" README.md
       - name: Commit & Push
         run: |
           git config user.name github-actions
