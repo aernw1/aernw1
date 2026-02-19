@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://profile-counter.deno.dev/aernw1/count.svg" alt="Profile Counter" />
+  <img src="https://profile-counter.deno.dev/aernw/count.svg" alt="Profile Counter" />
 </p>
 
 <!--START_SECTION:random_gif-->
@@ -39,7 +39,7 @@
 ## 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://github.com/aernw1" target="_blank">
+  <a href="https://github.com/aernw" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/erwan-seytor/" target="_blank">
